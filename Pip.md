@@ -31,8 +31,7 @@ If pip is not installed, an error will occur.
 
 <br></br>
 
-![Pip Installed] (C:\Users\Pooja\Desktop\pip.jpg)<br></br>
-! [dwwo] (https://miro.medium.com/proxy/1*YgtCXuRGmPfPg2PogXVCfQ.png)
+![Pip Installed] (F:\Images Markdown\pip.jpg "Pip Installed") <br></br>
 
 
 <br></br>
