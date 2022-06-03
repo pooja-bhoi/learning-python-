@@ -26,6 +26,9 @@ If pip is not installed, an error will occur.
 
          python get-pip.py
 
+    
+    ![Image] (https://ibb.co/6r718qV)
+    
     Make sure that the path you ahve entered is correct. If not, click on the path and change it using **cd** command.   
 
 
