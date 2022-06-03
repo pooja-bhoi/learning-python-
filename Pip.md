@@ -31,11 +31,6 @@ If pip is not installed, an error will occur.
 
 <br></br>
 
-![Pip Installed] (F:\Images Markdown\pip.jpg "Pip Installed") <br></br>
-
-
-<br></br>
-
 ## To verify if Pip is already installed
 
 1. Type the following command <br>
