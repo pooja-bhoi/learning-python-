@@ -1,0 +1,16 @@
+#tells the IPython environment to draw the plots immediately after the current cell
+%matplotlib inline 
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+plt.rcParams['figure.figsize'] = [20.0, 10.0] #set the default width and height
+
+
+#reading data
+
+#data = pd.read_csv(r"C:\Users\pooja1\Downloads\archive (1)\headbrain.csv")
+#data = pd.read_csv("C:/Users/pooja1/Downloads/archive (1)/headbrain.csv")
+data = pd.read_csv("C:\\Users\\pooja1\\Downloads\\archive (1)\\headbrain.csv")
+#data = pd.read_csv("https://www.kaggle.com/datasets/jemishdonda/headbrain?resource=download&select=headbrain.csv")
+print(data.shape)
+data.head()
